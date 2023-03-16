@@ -8,11 +8,11 @@ const navigation = () => {
       children: [
         {
           title: 'Library',
-          path: '/dashboards/library/'
+          path: '/dashboards/library'
         },
         {
           title: 'History',
-          path: '/dashboards/history/'
+          path: '/dashboards/history'
         }
       ]
     },
@@ -140,7 +140,7 @@ const navigation = () => {
     },
     {
       title: 'Video Script Generator',
-      path: '/tools/video-script-generator/'
+      path: '/tools/video-script-generator'
     },
     {
       title: 'Writing Tools',
@@ -156,23 +156,23 @@ const navigation = () => {
     },
     {
       title: 'Profile',
-      path: '/account/profile/'
+      path: '/account/profile'
     },
     {
       title: 'Subscription',
-      path: '/account/subscription/'
+      path: '/account/subscription'
     },
     {
       title: 'Payments',
-      path: '/account/payments/'
+      path: '/account/payments'
     },
     {
       title: 'Settings',
-      path: '/account/settings/'
+      path: '/account/settings'
     },
     {
       title: 'Logout',
-      path: '/account/logout/'
+      path: '/account/logout'
     }
   ]
 }
